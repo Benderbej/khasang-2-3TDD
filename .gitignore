@@ -1,0 +1,6 @@
+.idea/
+.git
+src
+target
+pom.xml
+TDDBattleships.iml
